@@ -1,10 +1,10 @@
 /* style.css */
 
 body {
-    color: #006e54;
+    color: #fa9696;
     text-align: center;
     object-position: center;
-    background-color: #c1e4e9;
+    background-color: #e1fccc;
     font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ img {
   margin: auto;
   display: block;
   font-size: 20px;
-  background-color: #68be8d;
+  background-color: #fccccc;
   font-family: sans-serif;
   border-radius: 1em;
 }
