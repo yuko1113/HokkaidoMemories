@@ -24,3 +24,5 @@ function changePicture() {
     document.getElementById('pic-title').innerHTML = picArray[i].title;
 };
 
+let button = document.getElementById('playButton');
+button.addEventListener('click', changePicture);
